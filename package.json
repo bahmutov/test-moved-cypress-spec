@@ -4,7 +4,7 @@
   "description": "Testing how Cypress handles spec file outside the integration folder",
   "main": "index.js",
   "scripts": {
-    "test": "cypress run --spec a-spec.js"
+    "test": "cypress run"
   },
   "keywords": [],
   "author": "",
