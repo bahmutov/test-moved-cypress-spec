@@ -1,0 +1,12 @@
+{
+  "name": "test-cypress-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --spec a-spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
