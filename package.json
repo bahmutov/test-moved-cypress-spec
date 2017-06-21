@@ -1,12 +1,15 @@
 {
-  "name": "test-cypress-module",
+  "name": "test-moved-cypress-spec",
   "version": "1.0.0",
-  "description": "",
+  "description": "Testing how Cypress handles spec file outside the integration folder",
   "main": "index.js",
   "scripts": {
     "test": "cypress run --spec a-spec.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^0.20.0-dev.20170620.121030"
+  }
 }
